@@ -1,5 +1,8 @@
 # This is Car-Renting Repository
 
+## Description:
+* Manage renting car system
+
 ## Technology:
 
 * Servlet
@@ -9,12 +12,15 @@
 
 ## Main Function:
 
+### Customer:
 * Search to view information of car and quantity
-* Add rented car to cart
-* Add discount for cart
-* Delete discount for cart
+* CRUD car from cart
+* CRUD discount for cart
 * Checkout cart
 * Search renting history
 * View rating feedback of each car
+
+### System:
+* Hadle and manage time of each rented car
 
 ### © 20202 Minh Tuan 
